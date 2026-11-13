@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.swp
+*.bak
+tmp/
+build/
+dist/
+node_modules/
+.env
